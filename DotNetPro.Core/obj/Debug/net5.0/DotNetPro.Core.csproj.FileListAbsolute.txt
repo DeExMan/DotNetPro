@@ -1,0 +1,15 @@
+C:\Users\Dmitry.Belikov\source\repos\DotNetPro\DotNetPro.Core\bin\Debug\net5.0\DotNetPro.Core.deps.json
+C:\Users\Dmitry.Belikov\source\repos\DotNetPro\DotNetPro.Core\bin\Debug\net5.0\DotNetPro.Core.runtimeconfig.json
+C:\Users\Dmitry.Belikov\source\repos\DotNetPro\DotNetPro.Core\bin\Debug\net5.0\DotNetPro.Core.runtimeconfig.dev.json
+C:\Users\Dmitry.Belikov\source\repos\DotNetPro\DotNetPro.Core\bin\Debug\net5.0\DotNetPro.Core.dll
+C:\Users\Dmitry.Belikov\source\repos\DotNetPro\DotNetPro.Core\bin\Debug\net5.0\ref\DotNetPro.Core.dll
+C:\Users\Dmitry.Belikov\source\repos\DotNetPro\DotNetPro.Core\bin\Debug\net5.0\DotNetPro.Core.pdb
+C:\Users\Dmitry.Belikov\source\repos\DotNetPro\DotNetPro.Core\obj\Debug\net5.0\DotNetPro.Core.csproj.AssemblyReference.cache
+C:\Users\Dmitry.Belikov\source\repos\DotNetPro\DotNetPro.Core\obj\Debug\net5.0\DotNetPro.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitry.Belikov\source\repos\DotNetPro\DotNetPro.Core\obj\Debug\net5.0\DotNetPro.Core.AssemblyInfoInputs.cache
+C:\Users\Dmitry.Belikov\source\repos\DotNetPro\DotNetPro.Core\obj\Debug\net5.0\DotNetPro.Core.AssemblyInfo.cs
+C:\Users\Dmitry.Belikov\source\repos\DotNetPro\DotNetPro.Core\obj\Debug\net5.0\DotNetPro.Core.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry.Belikov\source\repos\DotNetPro\DotNetPro.Core\obj\Debug\net5.0\DotNetPro.Core.dll
+C:\Users\Dmitry.Belikov\source\repos\DotNetPro\DotNetPro.Core\obj\Debug\net5.0\ref\DotNetPro.Core.dll
+C:\Users\Dmitry.Belikov\source\repos\DotNetPro\DotNetPro.Core\obj\Debug\net5.0\DotNetPro.Core.pdb
+C:\Users\Dmitry.Belikov\source\repos\DotNetPro\DotNetPro.Core\obj\Debug\net5.0\DotNetPro.Core.genruntimeconfig.cache
